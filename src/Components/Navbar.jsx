@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link} from 'react-router-dom';
+import HomePage from './HomePage';
 
 const Navbar = () => {
     const [role, setRole] = useState('');
@@ -14,8 +15,9 @@ const Navbar = () => {
         window.location.href = '/login';
     };
   return (
+    
     <div>
-        
+    
           <nav class="navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">RENTIFY</a>
@@ -32,7 +34,8 @@ const Navbar = () => {
             <li className="nav-item">
             <Link className="nav-link "  to="/login">Login</Link>
             </li>
-            </>
+            
+            </> 
             )}
             {role === 'seller' && (
               <>
@@ -58,9 +61,13 @@ const Navbar = () => {
               </>
             )}
           </ul>
+          
     </div>
   </div>
 </nav>
+{role === '' && (
+  <HomePage />
+)}       
     </div>
     
   );

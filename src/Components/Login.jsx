@@ -10,9 +10,9 @@ const Login = () => {
             const response = await axios.post('https://rentify-springbackend-production.up.railway.app/api/users/login', { email, password });
             localStorage.setItem('user', JSON.stringify(response.data));
             if (response.data.role === 'seller') {
-                window.location.href = '/';
+                window.location.href = '/add-property';
             } else {
-                window.location.href = '/';
+                window.location.href = '/buyer-property';
             }
         } catch (error) {
             alert('Login failed');

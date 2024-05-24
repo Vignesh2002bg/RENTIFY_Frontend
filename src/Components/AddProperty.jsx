@@ -19,6 +19,7 @@ const AddProperty = () => {
         try {
             await axios.post('https://rentify-springbackend-production.up.railway.app/api/properties', property);
             alert('Property added successfully');
+            window.location.href = '/home-property';
         } catch (error) {
             alert('Failed to add property');
         }
