@@ -5,19 +5,20 @@ Rentify is a comprehensive web application designed to simplify the rental proce
 <b>Key Features</b><br>
 <ul>
 <li><b>Browse Properties:</b> Users can view detailed listings of available rental properties, including information about the location, area, number of bedrooms, and bathrooms.</li><br>
-<li><br>Like Properties:</b> Users can like properties they are interested in. Each property shows the total number of likes, helping to highlight popular listings.</li><br>
+<li><b>Like Properties:</b> Users can like properties they are interested in. Each property shows the total number of likes, helping to highlight popular listings.</li><br>
 <li><b>Express Interest:</b> With a simple button click, users can express interest in a property and view the contact details of the property owner.
 User Authentication: Secure login and registration for users to manage their profile and interactions with the properties.</li><br>
 <li><b>Responsive Design:</b> The application is designed to be fully responsive, providing an optimal viewing experience on both desktop and mobile devices.</li></ul><br>
 <b>Description</b><br>
-Rentify is designed with the following goals in mind:
-
-User-Friendly Interface: The application boasts a clean, intuitive interface that allows users to easily navigate through property listings and find relevant information quickly.
-Efficient Communication: By allowing users to express interest and view seller details directly, Rentify facilitates effective communication between renters and property owners.
-Engagement and Interaction: The liking system enables users to engage with property listings, making it easier to track popular properties and gauge interest.
-Scalability: Built using Spring Boot and React, Rentify is scalable and can be extended with additional features as needed.
-Future Enhancements
-Advanced Search and Filters: Implementing advanced search functionality to allow users to filter properties based on specific criteria such as price range, location, and amenities.
-Booking and Scheduling: Adding features for booking property visits and scheduling meetings with property owners.
-Review System: Allowing users to leave reviews and ratings for properties they have visited or rented.
-Property Management Dashboard: Providing property owners with a dashboard to manage their listings, view interested renters, and track engagement.
+Rentify is designed with the following goals in mind:<br>
+<ul>
+<li><b>User-Friendly Interface:</b> The application boasts a clean, intuitive interface that allows users to easily navigate through property listings and find relevant information quickly.</li><br>
+<li><b>Efficient Communication:</b> By allowing users to express interest and view seller details directly, Rentify facilitates effective communication between renters and property owners.</li><br>
+<li><b>Engagement and Interaction:</b> The liking system enables users to engage with property listings, making it easier to track popular properties and gauge interest.</li>
+<li><b>Scalability:</b> Built using Spring Boot and React, Rentify is scalable and can be extended with additional features as needed.</li><br></ul>
+<b>Future Enhancements</b><br>
+<ul>
+<li><b>Advanced Search and Filters:</b> Implementing advanced search functionality to allow users to filter properties based on specific criteria such as price range, location, and amenities.</li><br>
+<li><b>Booking and Scheduling:</b> Adding features for booking property visits and scheduling meetings with property owners.</li><br>
+<li><b>Review System:<b> Allowing users to leave reviews and ratings for properties they have visited or rented.</li><br>
+<li><b>Property Management Dashboard:</b>Providing property owners with a dashboard to manage their listings, view interested renters, and track engagement.</li></ul>
