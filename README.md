@@ -22,3 +22,12 @@ Rentify is designed with the following goals in mind:<br>
 <li><b>Booking and Scheduling:</b> Adding features for booking property visits and scheduling meetings with property owners.</li><br>
 <li><b>Review System:</b> Allowing users to leave reviews and ratings for properties they have visited or rented.</li><br>
 <li><b>Property Management Dashboard:</b>Providing property owners with a dashboard to manage their listings, view interested renters, and track engagement.</li></ul>
+<b>Hosting and Technologies</b><br>
+<b>Backend</b><br>
+The backend of Rentify is hosted on Railway. You can access the backend services at the following domain:
+
+<b>Backend Domain URL:</b> https://rentify-springbackend-production.up.railway.app/
+The backend is built using Spring Boot, a robust and scalable Java framework for building enterprise-grade applications.<br>
+
+<b>Frontend</b><br>
+The frontend of Rentify is built using React, a popular JavaScript library for building user interfaces. It is hosted using Google Project IDX, providing a reliable and scalable platform for frontend applications.
