@@ -30,7 +30,7 @@ const Register = () => {
     return (
         <form onSubmit={handleSubmit}>
 
-            <h4 className='text-center my-3'>RENTIFY -User Registration</h4>
+            <h4 className='text-center my-3'>RENTIFY - User Registration </h4>
             <div className='form-group w-75 mx-auto mt-3'>
             <input type="text" className='form-control' name="firstName" onChange={handleChange} placeholder="First Name" required />
             </div>
