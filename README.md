@@ -1,4 +1,4 @@
-About Rentify
+<b>About Rentify</b>
 Overview
 Rentify is a comprehensive web application designed to simplify the rental process for both property owners and potential renters. It offers a user-friendly interface where users can browse available rental properties, express interest, and interact with property listings through a liking system. Rentify aims to streamline the process of finding rental properties and connecting renters with property owners.
 
