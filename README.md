@@ -20,5 +20,5 @@ Rentify is designed with the following goals in mind:<br>
 <ul>
 <li><b>Advanced Search and Filters:</b> Implementing advanced search functionality to allow users to filter properties based on specific criteria such as price range, location, and amenities.</li><br>
 <li><b>Booking and Scheduling:</b> Adding features for booking property visits and scheduling meetings with property owners.</li><br>
-<li><b>Review System:<b> Allowing users to leave reviews and ratings for properties they have visited or rented.</li><br>
+<li><b>Review System:</b> Allowing users to leave reviews and ratings for properties they have visited or rented.</li><br>
 <li><b>Property Management Dashboard:</b>Providing property owners with a dashboard to manage their listings, view interested renters, and track engagement.</li></ul>
