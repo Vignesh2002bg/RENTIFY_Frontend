@@ -22,8 +22,6 @@ function App() {
           <Route path="/home-property" element={<SellerProperties/>} />
           <Route path="/buyer-property" element={<BuyerProperties/>} />
           </Route>
-         
-          
         </Routes>
       </div>
     </Router>
